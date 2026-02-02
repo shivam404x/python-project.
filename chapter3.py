@@ -1,0 +1,11 @@
+# name  = input("Enter yoour name: ")
+
+# print(f"good afternoon {name} ")
+# print(f"good afternoon {name} ")
+# print(f"good afternoon {name} ")
+# print(f"good afternoon {name} ")
+# print(f"good afternoon {name} ")
+# print(f"good afternoon {name} ")
+# print(f"good afternoon {name} ")
+# print(f"good afternoon {name} ")
+# print(f"good afternoon {name} ")
